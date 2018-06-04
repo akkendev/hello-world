@@ -3,4 +3,4 @@ Kickoff
 
 Hi,
 
-Just playing with Git.
+Just playing with GitHub.
